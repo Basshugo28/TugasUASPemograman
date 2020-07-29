@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\DaftarMakanan\DaftarMakanan\obj\Debug\DaftarMakanan.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DaftarMakanan\DaftarMakanan\obj\Debug\DaftarMakanan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DaftarMakanan\DaftarMakanan\bin\Debug\DaftarMakanan.exe.config
+C:\Users\ASUS\source\repos\DaftarMakanan\DaftarMakanan\bin\Debug\DaftarMakanan.exe
+C:\Users\ASUS\source\repos\DaftarMakanan\DaftarMakanan\bin\Debug\DaftarMakanan.pdb
+C:\Users\ASUS\source\repos\DaftarMakanan\DaftarMakanan\obj\Debug\DaftarMakanan.exe
+C:\Users\ASUS\source\repos\DaftarMakanan\DaftarMakanan\obj\Debug\DaftarMakanan.pdb
